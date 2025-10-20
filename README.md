@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm José Quijada!
 
-<!--
-**quijadajose/quijadajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **System Engineer** with a passion for **improving things using code**. I specialize in **TypeScript**, **Docker**, and **SQL**, and I'm always eager to tackle new challenges and explore innovative solutions.
 
-Here are some ideas to get you started:
+## 🔧 My Skills
+- Programming: **TypeScript**, **SQL**
+- Tools & Platforms: **Docker**, **GitHub**
+- Interests: Building robust systems, optimizing performance, and scaling applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Work
+- **[LSV](https://github.com/quijadajose/LSV)** (*"cooking over low heat"*) — stay tuned for updates!
+- Contributor to **[type-kana](https://github.com/furudean/type-kana)** — helping improve tools for learning Japanese kana.
+
+## 🌟 Fun Facts
+When I'm not coding, you can find me:
+- Playing **chess** ♟️
+- Drawing ✏️
+- Taking photos of **nature** and other beautiful things 📸
+- Overthink
+
+## 📫 Connect with Me
+- 🌐 Portfolio: [quijadajose.github.io](https://quijadajose.github.io/)
+- 📩 Feel free to reach out via GitHub!
+
+---
+
+*"Improving the things that matter, one line of code at a time."*
