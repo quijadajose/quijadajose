@@ -17,7 +17,6 @@ When I'm not coding, you can find me:
 - Playing **chess** ♟️
 - Drawing ✏️
 - Taking photos of **nature** and other beautiful things 📸
-- Overthink
 
 ## 📫 Connect with Me
 - 🌐 Portfolio: [quijadajose.github.io](https://quijadajose.github.io/)
