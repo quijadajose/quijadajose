@@ -9,7 +9,7 @@ I'm a **System Engineer** with a passion for **improving things using code**. I 
 - Interests: Building robust systems, optimizing performance, and scaling applications.
 
 ## 🔥 Featured Work
-- **[LSV](https://github.com/quijadajose/LSV)** (*"cooking over low heat"*) — stay tuned for updates!
+- **[learn-sign-language](https://github.com/quijadajose/learn-sign-language)** (*"cooking over low heat"*) — stay tuned for updates!
 - Contributor to **[type-kana](https://github.com/furudean/type-kana)** — helping improve tools for learning Japanese kana.
 
 ## 🌟 Fun Facts
