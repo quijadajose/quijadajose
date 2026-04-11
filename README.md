@@ -25,4 +25,4 @@ When I'm not coding, you can find me:
 ---
 
 *"Improving the things that matter, one line of code at a time."*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quijadajose"/>
+[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=quijadajose)](https://github.com/quijadajose/github-readme-stats)
